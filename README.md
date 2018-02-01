@@ -1,6 +1,6 @@
 # mbit
 
-Extension for Yahboom mbit
+Extension for micro:bit
 
 ## License
 
